@@ -45,7 +45,7 @@ www.whois.com##.slides-container
 ||www.whois.com/images/chiclet_wph_300.png$image
 ||www.whois.com/images/homeban_lightning_sale_1811.jpg$image
 !
-! DOMAINS (CHINESE AND ENGLISH)
+! DOMAINS (CHINA, US, UK)
 ||001.com^
 ||0290.com^
 ||0290xpj.com^
@@ -437,7 +437,7 @@ www.whois.com##.slides-container
 ||yoytube.com^
 ||yuotube.com^
 !
-! 2019 Filters (also I got tired of alphebetizing)
+! I got tired of alphebetizing
 ||pdfconverterhq.com^
 ||youremailsnow.com^
 ||youtubeb.com^
@@ -483,3 +483,5 @@ ruwix.com###popupShadow
 ruwix.com###popupBoxInner
 ruwix.com###popupBox
 ||ruwix.com/noindex/whitelist/$subdocument
+||utube.com^
+||youclips.com^
