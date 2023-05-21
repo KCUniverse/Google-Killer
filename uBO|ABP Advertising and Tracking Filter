@@ -1,14 +1,8 @@
-! Filter by KC Universe
-! https://www.youtube.com/channel/UCEB2ctSitgjOK-dNB55im6Q
-!
-! ANNOYANCES / ELEMENTS
 123movie.cc##.notice.alert-default.alert
 beta.mope.io###appsDiv
 cms.randomlinks-com.webnode.com###fe_footer
 cms.randomlinks-com.webnode.com###fe_footer_left
 en.savefrom.net##.install-now__img_box.center.wrapper
-kindred9c.wixsite.com###SITE_HEADER
-kindred9c.wixsite.com###top
 kissanime.ac###upgrade_pop
 kissanime.ac##div.full.rightBox:nth-of-type(3)
 kissanime.si###upgrade_pop
@@ -45,7 +39,6 @@ www.whois.com##.slides-container
 ||www.whois.com/images/chiclet_wph_300.png$image
 ||www.whois.com/images/homeban_lightning_sale_1811.jpg$image
 !
-! DOMAINS (CHINA, US, UK)
 ||001.com^
 ||0290.com^
 ||0290xpj.com^
@@ -437,7 +430,6 @@ www.whois.com##.slides-container
 ||yoytube.com^
 ||yuotube.com^
 !
-! I got tired of alphebetizing
 ||pdfconverterhq.com^
 ||youremailsnow.com^
 ||youtubeb.com^
